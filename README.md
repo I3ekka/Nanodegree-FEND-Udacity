@@ -16,7 +16,7 @@ Front End Nanodegree Exercises
 
 ### Additional Info
 
-In addtion to the coursework, HTML, and CSS I used the Bootstrap4 framework via CDN.
+In addtion to the coursework, HTML, and CSS I used the **Bootstrap4 framework** via CDN.
 Placeholder images were taken from [PEXEL](https://www.pexels.com/).
 
 ### License
