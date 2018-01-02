@@ -79,6 +79,7 @@ ul, ol {
 
 /*Navbar & Header*/
 nav {
+  background-color: #fff;
 }
 
 .navbar {
@@ -218,6 +219,10 @@ figure figcaption {
   margin-bottom: 15%;
 }
 
+.margin-bot {
+  margin-bottom: 3%;
+}
+
 .size2x {
   font-size: 2.95rem;
 }
@@ -238,6 +243,10 @@ a.incontent-link:hover {
 
 .strong {
   font-weight: bold;
+}
+
+.small {
+  font-size: 0.9rem;
 }
 
 .center {
